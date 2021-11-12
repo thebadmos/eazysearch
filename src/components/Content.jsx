@@ -51,7 +51,7 @@ class Content extends Component {
         
             <div class="alert alert-dismissible alert-success" id="alertbox">
 
-  <strong>Welcome!</strong> This is a Go2Go Search Application <a href="#" class="alert-link">linking subscribed users to GitHub </a>.
+  <strong>Welcome!</strong> This is a Go2Go Search Application <a class="alert-link">linking subscribed users to GitHub </a>.
  <br/> A React application that interacts with the Github API.
 </div>
        </div>
